@@ -18,5 +18,6 @@ public class Main {
         Triangle triangle = new Triangle(1,2,3,7,8,9);
         printer.print(triangle);
 
+
     }
 }
